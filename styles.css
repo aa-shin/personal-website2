@@ -96,3 +96,46 @@ footer {
   padding: 10px;
   font-size: x-large;
 }
+
+@media (max-width: 1024px) {
+  body {
+    display: flex;
+    background-color: dodgerblue;
+    flex-direction: column;
+  }
+
+  main {
+    margin-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 100px;
+  }
+  
+  .index {
+    margin: 0;
+    padding: 250px;
+    padding-top: 0px;
+  }
+
+  div > main {
+    padding-bottom: 0px;
+  }
+
+  .ball {
+    margin: 0;
+    padding: 250px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+  }
+
+  .ski {
+    margin: 0;
+    padding: 250px;
+    padding-top: 0px;
+  }
+
+  .project {
+    margin: 0;
+    padding: 250px;
+    padding-top: 0px;
+  }
+}

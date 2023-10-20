@@ -10,3 +10,4 @@ finished structure for about.html by adding another image and adding necessary a
 added additional paddings to content in about.html to prevent footer from hiding content by overlapping.
 finished structure for portfolio.html by adding necessary adjustments to css to html and css.
 added additional paddings to content in portfolio.html to prevent footer from hiding content by overlapping.
+added @media to all html files and adjusted css accordingly for width: 1024px view. changed background-color for body for 1024px view in @media css in order to make sure it was working as intended.
