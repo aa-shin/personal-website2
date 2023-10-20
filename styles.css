@@ -24,6 +24,10 @@ nav {
   word-spacing: 20px;
 }
 
+.links:hover {
+  background-color: chartreuse;
+}
+
 main {
   background-color: blanchedalmond;
   display: flex;
