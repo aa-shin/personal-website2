@@ -72,6 +72,16 @@ div > main {
   margin-right: 100px;
 }
 
+.project {
+  background-color: blanchedalmond;
+  width: 500px;
+  padding: 100px;
+  padding-bottom: 516;
+  padding-top: 140px;
+  margin-top: 50px;
+  margin-right: 100px;
+}
+
 footer {
   position: fixed;
   left: 0px;
