@@ -1,4 +1,5 @@
 body {
+  display: inline-flex;
   background-color: silver;
 }
 
@@ -21,4 +22,39 @@ nav {
 .links {
   font-size: larger;
   word-spacing: 20px;
+}
+
+main {
+  background-color: blanchedalmond;
+  display: flex;
+  width: 800px;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 100px;
+  padding: 100px;
+}
+
+.index {
+  background-color: blanchedalmond;
+  width: 500px;
+  padding: 100px;
+  padding-bottom: 167px;
+  padding-top: 140px;
+  margin-top: 50px;
+  margin-right: 100px;
+}
+
+footer {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 700px;
+  align-items: center;
+  background-color: slategray;
+  height: 220px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  font-size: x-large;
 }
